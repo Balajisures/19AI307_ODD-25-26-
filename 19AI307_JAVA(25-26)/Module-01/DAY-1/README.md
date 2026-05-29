@@ -37,8 +37,8 @@ To write a Java program that demonstrates all basic datatypes and prints their v
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: PRASANNAR R
-RegisterNumber: 212222040120
+Developed by: BALAJI S
+RegisterNumber: 212223040024
 */
 
 ```
